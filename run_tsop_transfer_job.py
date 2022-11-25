@@ -1,3 +1,7 @@
+"""
+Original DAG created by Pradeep Kumar Singh and outlined in this article:
+https://medium.com/google-cloud/schedule-gcp-sts-transfer-job-with-cloud-composer-2aa947fb1948
+"""
 import datetime
 import logging
 import time
